@@ -50,7 +50,7 @@ Après d'avoir **dupliquer le calque et de l'avoir envoyé dans votre planche de
  
  ![Lien vers la photo](medias/Outil_Plume.png)
  
- ![Lien vers la photo](media/Fin_du_tracer.png)
+ ![Lien vers la photo](media/Fin_du_tracé.png)
  
  
 #Étape 7 
