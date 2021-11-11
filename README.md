@@ -19,4 +19,6 @@
 # Étape 3 
 **Rechercher des images** sur internet puis **enregistrer les** 
 
-
+ ![Lien vers la photo](meias/Recherche_d'images.png)
+ 
+ ![Lien vers la photo](medias/Emregostrer_recherche.png
