@@ -36,4 +36,8 @@
 # Étape 5
 **Cliquer sur «Sélectionner et masquer» puis appuyez sur affichage, incrustation** pour voir si il faut améliorer le contours ou inverser couleurs (mon cas aucun probleme). Ensuite cliquer sur Ok et puis clqieur en bas de la page pour faire apparaître votre masque que vpus venez de créer
 
-
+ ![Lien vers la photo](medias/Sélectionner_et_Masquer.png)
+ 
+ ![Lien vers la photo](medias/Affichage_Incrustation.png)
+ 
+ ![Lien vers la photo](medias/Appliquer_masque (2).png)
