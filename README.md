@@ -29,6 +29,6 @@
 
  ![Lien vers la photo](medias/Ouverture_image_photoshop.png)
  
- ![Lien vers la photo](medias/Outil_sélection_objet.png)
+ ![Lien vers la photo](medias/Outil_selection_objet.png)
  
- ![Lien vers la photo](medias/Objet_sélectionné.png)
+ ![Lien vers la photo](medias/Objet_selectionné.png)
