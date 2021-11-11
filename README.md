@@ -14,9 +14,5 @@
  ![Lien vers la photo](medias/Lors_de_l'ouverture.png)
  
 
-
-
-
-
-![Lien vers la photo](medias/Réglages.png)
+ ![Lien vers la photo](medias/Réglages.png)
 
