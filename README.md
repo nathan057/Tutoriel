@@ -46,3 +46,8 @@
 #Étape 6 
 Après d'avoir **dupliquer le calque et de l'avoir envoyé dans votre planche de travail**, vous allez ensuite prendre **l'outil «plue et mettre des points un peu partout pour faire le tour de votre objet**.
 
+ ![Lien vers la photo](medias/Dupliquer_le_calque.png)
+ 
+ ![Lien vers la photo](medias/Outil_Plume.png)
+ 
+ ![Lien vers la photo](media/Fin_tracer.png)
