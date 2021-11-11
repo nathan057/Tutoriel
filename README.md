@@ -50,4 +50,10 @@ Après d'avoir **dupliquer le calque et de l'avoir envoyé dans votre planche de
  
  ![Lien vers la photo](medias/Outil_Plume.png)
  
- ![Lien vers la photo](media/Fin_tracer.png)
+ ![Lien vers la photo](media/Fin_du_tracer.png)
+ 
+ 
+#Étape 7 
+Arrondissez vos lignes pour qu'il touchent le contour de la forme. Pour se faire allez sur un des points et maintenez Alt et le bouton gauche de la souris tout en la déplacant juste a temps que ça sois bien placé
+
+
