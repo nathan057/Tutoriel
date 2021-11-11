@@ -7,3 +7,9 @@
 ![Lien vers la photo](medias/Ouvrir_Photoshop.png)
 
 ![Lien vers la photo](medias/menu_d'accueil.png)
+
+# Étape 2
+ Clqiuer sur fichier, nouveau pour hoisir et définir les règlages de votre planche de travail
+ 
+ 
+
