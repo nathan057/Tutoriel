@@ -9,7 +9,7 @@
 ![Lien vers la photo](medias/menu_d'accueil.png)
 
 # Étape 2
- Clqiuer sur fichier, nouveau pour hoisir et définir les règlages de votre planche de travail
+ **Clqiuer sur fichier, nouveau pour choisir et définir les règlages** de votre planche de travail
  
  ![Lien vers la photo](medias/Lors_de_l'ouverture.png)
  
@@ -17,6 +17,6 @@
 
 
 # Étape 3 
-Rechercher des images sur internet puis enregistrer les 
+**Rechercher des images** sur internet puis **enregistrer les** 
 
 
