@@ -40,4 +40,4 @@
  
  ![Lien vers la photo](medias/Affichage_Incrustation.png)
  
- ![Lien vers la photo](medias/Appliquer_masque (2).png)
+ ![Lien vers la photo](medias/bouton_masque.png)
