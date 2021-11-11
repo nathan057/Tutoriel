@@ -64,5 +64,13 @@ Après d'avoir **dupliquer le calque et de l'avoir envoyé dans votre planche de
 #Étape 8
 **Glisser votre forme retracé a l'endroit désiré, agramdir votre objet retracé, enlever la forme de votre planche de travail, enregistrer et quitter.**
 
-
+ ![Lien vers la photo](medias/Déplacement_forme.png)
+ 
+ ![Lien vers la photo](medias/Agrandir_ta_forme.png)
+ 
+ ![Lien vers la photo](medias/Supprimer_objet_initiale.png)
+ 
+ ![Lien vers la photo](medias/Enregistré.png)
+ 
+ ![Lien vers la photo](medias/Enregistrer.png)
  
