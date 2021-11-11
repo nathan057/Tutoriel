@@ -27,4 +27,8 @@
 # Étape 4
 **Ouvrir l'image dans photoshop puis utilisez l'outil de sélection d'objet pour sélectionner seulement ton objet ou un morecau de ton objet que tu veux selectionné**. (nuage dans mon cas)
 
- ![Lien vers la photo](medias/
+ ![Lien vers la photo](medias/Ouverture_image_photoshop.png)
+ 
+ ![Lien vers la photo](medias/Outil_sélection_objet.png)
+ 
+ ![Lien vers la photo](medias/Objet_sélectionné.png)
