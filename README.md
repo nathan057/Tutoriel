@@ -32,3 +32,8 @@
  ![Lien vers la photo](medias/Outil_selection_objet.png)
  
  ![Lien vers la photo](medias/Objet_selectionné.png)
+ 
+# Étape 5
+**Cliquer sur «Sélectionner et masquer» puis appuyez sur affichage, incrustation** pour voir si il faut améliorer le contours ou inverser couleurs (mon cas aucun probleme). Ensuite cliquer sur Ok et puis clqieur en bas de la page pour faire apparaître votre masque que vpus venez de créer
+
+
