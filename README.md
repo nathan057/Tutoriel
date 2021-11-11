@@ -11,5 +11,7 @@
 # Étape 2
  Clqiuer sur fichier, nouveau pour hoisir et définir les règlages de votre planche de travail
  
+ ![Lien vers la photo](medias/Lors_de_l'ouverture.png)
  
+ ![Lien vers la photo](medias/Réglages.png)
 
