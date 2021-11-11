@@ -41,3 +41,8 @@
  ![Lien vers la photo](medias/Affichage_Incrustation.png)
  
  ![Lien vers la photo](medias/bouton_masque.png)
+
+
+#Étape 6 
+Après d'avoir **dupliquer le calque et de l'avoir envoyé dans votre planche de travail**, vous allez ensuite prendre **l'outil «plue et mettre des points un peu partout pour faire le tour de votre objet**.
+
