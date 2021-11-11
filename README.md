@@ -13,6 +13,10 @@
  
  ![Lien vers la photo](medias/Lors_de_l'ouverture.png)
  
-
  ![Lien vers la photo](medias/Réglages.png)
+
+
+# Étape 3 
+Rechercher des images sur internet puis enregistrer les 
+
 
