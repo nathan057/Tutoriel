@@ -43,7 +43,7 @@
  ![Lien vers la photo](medias/bouton_masque.png)
 
 
-#Étape 6 
+# Étape 6 
 Après d'avoir **dupliquer le calque et de l'avoir envoyé dans votre planche de travail**, vous allez ensuite prendre **l'outil «plue et mettre des points un peu partout pour faire le tour de votre objet**.
 
  ![Lien vers la photo](medias/Dupliquer_le_calque.png)
@@ -53,7 +53,7 @@ Après d'avoir **dupliquer le calque et de l'avoir envoyé dans votre planche de
  ![Lien vers la photo](medias/Fin_du_tracé.png)
  
  
-#Étape 7 
+# Étape 7 
 **Arrondissez vos lignes pour qu'il touchent le contour de la forme**. Pour se faire allez sur un des points et *maintenez Alt et le bouton gauche de la souris tout en la déplacant juste a temps que ça sois bien placé*
 
  ![Lien vers la photo](medias/Début_arrondissement.png)
@@ -61,7 +61,7 @@ Après d'avoir **dupliquer le calque et de l'avoir envoyé dans votre planche de
  ![Lien vers la photo](medias/Arrondissement_parfait.png)
 
 
-#Étape 8
+# Étape 8
 **Glisser votre forme retracé a l'endroit désiré, agramdir votre objet retracé, enlever la forme de votre planche de travail, enregistrer et quitter.**
 
  ![Lien vers la photo](medias/Déplacement_forme.png)
